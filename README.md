@@ -1,0 +1,2 @@
+# newGitTest
+training for Github
